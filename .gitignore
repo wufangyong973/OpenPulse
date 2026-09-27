@@ -2,8 +2,11 @@ __pycache__/
 *.pyc
 .venv/
 dist/
+temp_auto_push.bat
 build/
 *.egg-info/
 .pytest_cache/
 .ruff_cache/
 .openpulse/
+.gitignore
+branch_structure.json
